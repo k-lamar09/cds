@@ -3,6 +3,7 @@
     "name": "ARGENTINA",
     "samples": [
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
         "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
       },
