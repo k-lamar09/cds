@@ -9,8 +9,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323"
       },
       {
-        "name": "EL TRECE ",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8"
+        "name": "EL TRECE",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png"
       },
       {
         "name": "CANAL 9 ",
@@ -223,6 +226,20 @@
   {
     "name": "\uD83C\uDFC6 DEPORTES",
     "samples": [
+      {
+        "name": "ESPN",
+        "uri": "http://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+      },
+      {
+        "name": "ESPN 2",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=65a5bfa3c7a72dde60be9b0c7406c8fc&key%5B%5D=0b40ae9f78a7bac3b57ecbf72d3c081e",
+        "icono": "https://i.postimg.cc/SQVGKzM7/ver-espn-2-en-vivo.jpg"
+      },
       {
         "name": "ESPN 3",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
@@ -1146,6 +1163,10 @@
       {
         "name": "LA ROSA DE GUADALUPE",
         "uri": "https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "PELICULA PRUEBA",
+        "uri": "https://hugh.cdn.rumble.cloud/video/s8/2/4/U/d/g/4Udgm.caa.mp4"
       }
     ]
   }
