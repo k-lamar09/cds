@@ -3,9 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/3543/CH_LOGO/60/40/0/0/31392009073950.png" group-title="PACK FUTBOL" ,TNT PRUEBA
-#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
-#KODIPROP:inputstream.adaptive.stream_headers=Authorization=BearereyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTczMjA0ODc5NCwiZXhwIjoxNzMyMDUwNTk0LCJ0eXBlIjoiQUNDRVNTIn0.wbfsarjwBaB9mMtqiII-aGjS82jBtFtPFvzeGKbTBzU
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/3543/CH_LOGO/60/40/0/0/31392009073950.png" group-title="PACK FUTBOL" ,TNT 2
+#KODIPROP:inputstream.adaptive.stream_headers:http-origin="https://web.app.flow.com.ar/"
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
