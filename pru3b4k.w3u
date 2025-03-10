@@ -1,12 +1,12 @@
 {
   "name": "Kuerba",
-  "author": "Lu1S",
+  "author": "KUERBA",
   "image": "https://i.ibb.co/cyrxQth/kuerba-icono.png",
   "url": "https://example.com/",
-  "info": "Lista de prueba con DRM y Headers",
+  "info": "Lista Gratuita",
   "groups": [
     {
-      "name": "CANALES TV",
+      "name": "PACK FUTBOL",
       "author": "Autor TV",
       "image": "https://i.ibb.co/NTVLWT1/T3v3.png",
       "stations": [
@@ -21,7 +21,19 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
             "Referer": "https://web.app.flow.com.ar/",
             "Origin": "https://web.app.flow.com.ar/"
-          }
+          },
+      {
+        "name": "TNT SPORTS",
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "license_type": "clearkey",
+        "license_key": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "image": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png"
+          "embed": "true",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+            "Referer": "https://web.app.flow.com.ar/",
+            "Origin": "https://web.app.flow.com.ar/"
+          },
         }
       ]
     }
