@@ -22,6 +22,7 @@
             "Referer": "https://web.app.flow.com.ar/",
             "Origin": "https://web.app.flow.com.ar/"
           },
+        },
        {
         "name": "TNT SPORTS",
         "image": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png",
@@ -33,7 +34,8 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
             "Referer": "https://web.app.flow.com.ar/",
             "Origin": "https://web.app.flow.com.ar/"
-          }
+          },
+         }
         }
       ]
     }
